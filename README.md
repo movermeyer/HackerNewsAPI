@@ -5,7 +5,7 @@ Unofficial Python API for [Hacker News](https://news.ycombinator.com/).
 
 | Build Status | Test Coverage | Version | Downloads |
 | ------------ | ------------- | ------- | ------------------- |
-| [![Build Status](https://travis-ci.org/karan/HackerNewsAPI.png?branch=master)](https://travis-ci.org/karan/HackerNewsAPI) | [![Coverage Status](https://coveralls.io/repos/karan/HackerNewsAPI/badge.png)](https://coveralls.io/r/karan/HackerNewsAPI) | [![Latest Version](https://pypip.in/v/HackerNews/badge.png)](https://pypi.python.org/pypi/HackerNews/) | [![Downloads](https://pypip.in/d/HackerNews/badge.png)](https://pypi.python.org/pypi/HackerNews/) |
+| [![Build Status](https://travis-ci.org/karan/HackerNewsAPI.png?branch=master)](https://travis-ci.org/karan/HackerNewsAPI) | [![Coverage Status](https://coveralls.io/repos/karan/HackerNewsAPI/badge.png)](https://coveralls.io/r/karan/HackerNewsAPI) | [![Latest Version](https://img.shields.io/pypi/v/HackerNews.svg)](https://pypi.python.org/pypi/HackerNews/) | [![Downloads](https://img.shields.io/pypi/dm/HackerNews.svg)](https://pypi.python.org/pypi/HackerNews/) |
 
 
 Features
